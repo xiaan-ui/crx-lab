@@ -1,0 +1,61 @@
+,Treatment,Family,Percent,Phylum
+1,A,Xanthobacteraceae,1.39E-01,Proteobacteria
+2,A,Isosphaeraceae,7.78E-02,Planctomycetes
+3,A,Chthoniobacteraceae,3.80E-02,Verrucomicrobia
+4,A,Anaerolineaceae,3.54E-02,Chloroflexi
+5,A,Streptomycetaceae,6.21E-03,Actinobacteria
+6,A,Solibacteraceae (Subgroup 3),1.96E-02,Acidobacteria
+7,A,Ktedonobacteraceae,1.93E-02,Chloroflexi
+8,A,Clostridiaceae 1,1.71E-02,Firmicutes
+9,A,Nocardioidaceae,6.33E-03,Actinobacteria
+10,A,Pedosphaeraceae,1.06E-02,Verrucomicrobia
+11,A,Methyloligellaceae,1.53E-02,Proteobacteria
+12,A,Nitrosomonadaceae,1.63E-02,Proteobacteria
+13,A,Intrasporangiaceae,8.48E-03,Actinobacteria
+14,A,Chitinophagaceae,1.73E-02,Bacteroidetes
+15,A,Gemmatimonadaceae,1.13E-02,Gemmatimonadetes
+16,A,Rhodanobacteraceae,3.57E-02,Proteobacteria
+17,A,Acidothermaceae,9.48E-03,Actinobacteria
+18,A,Rhodopirillaceae,8.42E-03,Proteobacteria
+19,A,Frankiaceae,4.33E-03,Actinobacteria
+20,A,Thermomonosporaceae,9.00E-04,Actinobacteria
+21,B,Xanthobacteraceae,1.50E-01,Proteobacteria
+22,B,Isosphaeraceae,6.21E-02,Planctomycetes
+23,B,Chthoniobacteraceae,5.92E-02,Verrucomicrobia
+24,B,Anaerolineaceae,2.56E-02,Chloroflexi
+25,B,Streptomycetaceae,3.63E-03,Actinobacteria
+26,B,Solibacteraceae (Subgroup 3),2.15E-02,Acidobacteria
+27,B,Ktedonobacteraceae,1.76E-02,Chloroflexi
+28,B,Clostridiaceae 1,1.21E-02,Firmicutes
+29,B,Nocardioidaceae,3.31E-03,Actinobacteria
+30,B,Pedosphaeraceae,1.35E-02,Verrucomicrobia
+31,B,Methyloligellaceae,1.50E-02,Proteobacteria
+32,B,Nitrosomonadaceae,1.65E-02,Proteobacteria
+33,B,Intrasporangiaceae,4.77E-03,Actinobacteria
+34,B,Chitinophagaceae,1.47E-02,Bacteroidetes
+35,B,Gemmatimonadaceae,1.82E-02,Gemmatimonadetes
+36,B,Rhodanobacteraceae,1.75E-02,Proteobacteria
+37,B,Acidothermaceae,7.55E-03,Actinobacteria
+38,B,Rhodopirillaceae,6.67E-03,Proteobacteria
+39,B,Frankiaceae,2.85E-03,Actinobacteria
+40,B,Thermomonosporaceae,9.41E-04,Actinobacteria
+41,C,Xanthobacteraceae,1.14E-01,Proteobacteria
+42,C,Isosphaeraceae,6.12E-02,Planctomycetes
+43,C,Chthoniobacteraceae,1.95E-02,Verrucomicrobia
+44,C,Anaerolineaceae,1.99E-02,Chloroflexi
+45,C,Streptomycetaceae,3.19E-03,Actinobacteria
+46,C,Solibacteraceae (Subgroup 3),2.32E-02,Acidobacteria
+47,C,Ktedonobacteraceae,1.49E-02,Chloroflexi
+48,C,Clostridiaceae 1,1.41E-02,Firmicutes
+49,C,Nocardioidaceae,2.33E-03,Actinobacteria
+50,C,Pedosphaeraceae,2.44E-02,Verrucomicrobia
+51,C,Methyloligellaceae,1.46E-02,Proteobacteria
+52,C,Nitrosomonadaceae,2.72E-02,Proteobacteria
+53,C,Intrasporangiaceae,4.04E-03,Actinobacteria
+54,C,Chitinophagaceae,1.39E-02,Bacteroidetes
+55,C,Gemmatimonadaceae,4.33E-02,Gemmatimonadetes
+56,C,Rhodanobacteraceae,5.32E-03,Proteobacteria
+57,C,Acidothermaceae,5.57E-03,Actinobacteria
+58,C,Rhodopirillaceae,7.37E-03,Proteobacteria
+59,C,Frankiaceae,1.82E-03,Actinobacteria
+60,C,Thermomonosporaceae,7.99E-04,Actinobacteria
